@@ -1,0 +1,51 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+table{
+    border-radius: 10px;
+    margin: 0 auto;
+    border-width: 2px;
+
+}
+
+table td{
+    border-width: 2px;
+    text-align: center;
+}
+
+th{
+    padding: 6px;
+    text-align: center;
+    border-radius: 6px;
+}
+
+td{
+    border-radius: 6px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    width: 100px;
+    height: auto;
+}
+
+.cabecalho {
+    background-color: rgb(255, 153, 0);
+}
+
+.Nordeste{
+    background-color: rgb(255, 251, 0);
+}
+
+.Suldeste{
+    background-color: rgb(255, 166, 0) ;
+}
+
+.Sul{
+
+    background-color: rgb(98, 245, 0);
+}
